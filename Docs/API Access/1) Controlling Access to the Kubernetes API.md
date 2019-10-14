@@ -58,6 +58,7 @@
 * To learn more about Kubernetes authorization, including details about creating policies using the supported authorization modules, see [Authorization Overview](https://kubernetes.io/docs/reference/access-authn-authz/authorization/)
 
 #### Admission Control
+
 * Admission Control Modules are software modules that can modify or reject requests.
     * __This is shown as step 3 in the diagram__.
     * In addition to the attributes available to Authorization Modules, Admission Control Modules can access the contents of the object that is being created or updated. 
