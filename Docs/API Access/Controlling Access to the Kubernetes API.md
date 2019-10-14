@@ -26,13 +26,13 @@
 
 #### Authorization
 
-    * After authentication the request must be Authorized
-        * A request must include the
-            * username of the requester.
-            * the requested action. and 
-            * the object affected by the action.
-        * The request is authorized if an existing policy declares that the user has permissions to complete the requested action.
-
+* After authentication the request must be Authorized
+    * A request must include the
+        * username of the requester.
+        * the requested action. and 
+        * the object affected by the action.
+    * The request is authorized if an existing policy declares that the user has permissions to complete the requested action.
+####
     '''
     For example, if Bob has the policy below, then he can read pods only in the namespace projectCaribou:
 
