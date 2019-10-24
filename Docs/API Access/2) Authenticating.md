@@ -17,7 +17,7 @@
 
 * Kubernetes uses client certificates, bearer tokens, an authenticating proxy, or HTTP basic auth to authenticate API requests through authentication plugins.
 * when requests are made to API server,
-    * Username: a string which identifies the end user. Common values might be __kube-admin__ or __jane@example.com.__
+    * Username: a string which identifies the end user. Common values might be __kube-admin__ or __jane@example.com__
     * UID: a string which identifies the end user and attempts to be more consistent and unique than username.
     * Groups: a set of strings which associate users with a set of commonly grouped users.
     * Extra fields: a map of strings to list of strings which holds additional information authorizers may find useful.
