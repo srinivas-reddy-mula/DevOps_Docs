@@ -59,4 +59,4 @@ ARG Variables will be alive until DockerFile Execution time only
 * HEALTHCHECK:
     * To check whether the container is in __Running__ or __Pending__ or __Stopped__
 * WORKDIR:
-    * To tell the Docker in which __Directory__
+    * To tell the Docker to work in which __Directory__
