@@ -45,10 +45,10 @@
         * __*ARG*__ Variables will availble until DockerFile Execution only 
 
 ## ENV and ARG Difference
-'''
-__ENV__ variables wiil be stored in __DockerImage__. Containers can use while running
-__ARG__ Variables will be alive until __*DockerFile Execution*__ time only
-'''
+```
+ENV variables wiil be stored in DockerImage. Containers can use while running
+ARG Variables will be alive until DockerFile Execution time only
+```
 * CMD:
     * It is the mandadtory instruction
     * it tells the container what is the __*first command*__ to be execute after creation
