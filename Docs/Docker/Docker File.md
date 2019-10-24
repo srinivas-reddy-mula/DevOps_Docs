@@ -46,7 +46,7 @@
 
 ## ENV and ARG Difference
 ```
-ENV variables wiil be stored in DockerImage. Containers can use while running
+ENV variables wiil be stored in DockerImage and Containers can use while running
 ARG Variables will be alive until DockerFile Execution time only
 ```
 * CMD:
