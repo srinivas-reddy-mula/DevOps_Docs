@@ -62,6 +62,5 @@ ARG Variables will be alive until DockerFile Execution time only
     * To tell the Docker to work in which __Directory__
 
 #### Docker File Examples
-* [spring-pet0clinic]
-![preview](https://github.com/srinivas-reddy-mula/Docker/blob/master/spc/Dockerfile)
+* [spring-pet0clinic](https://github.com/srinivas-reddy-mula/Docker/blob/master/spc/Dockerfile)
 * [game-of-life](https://github.com/srinivas-reddy-mula/Docker/blob/master/gameoflife/Dockerfile)
