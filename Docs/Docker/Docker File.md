@@ -63,6 +63,6 @@ ARG Variables will be alive until DockerFile Execution time only
 
 #### Docker File Examples
 * For Spring Pet Clinic
-    * [spring-pet0clinic](https://github.com/srinivas-reddy-mula/Docker/blob/master/spc/Dockerfile)
+    * [spring-pet-clinic](https://github.com/srinivas-reddy-mula/Docker/blob/master/spc/Dockerfile)
 * For Game Of Life
     * [game-of-life](https://github.com/srinivas-reddy-mula/Docker/blob/master/gameoflife/Dockerfile)
